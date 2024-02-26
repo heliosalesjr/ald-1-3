@@ -27,7 +27,7 @@ const MatLogaritmo = () => {
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className='underline hover:text-sky-300'>
-                    "Tópicos de Matemática"
+                    Tópicos de Matemática
                 </a>
             {' '}(p. 31), há sugestões de abordagens apropriadas caso você decida se aprofundar nesse tema.</p>
     

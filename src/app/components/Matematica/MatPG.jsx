@@ -30,7 +30,7 @@ const MatPG = () => {
             <div className="grid grid-cols-1 mx-auto max-w-7xl md:grid-cols-3">
                 
                 
-                <div className='bg-slate-100 p-6 rounded-lg border border-slate-500 shadow-md m-2 flex flex-col justify-start items-start hover:shadow-lg hover:scale-105 transition-all duration-300'>
+                <div className='bg-slate-100 p-6 rounded-lg border border-slate-500 shadow-md m-2 flex flex-col justify-start items-start hover:shadow-lg hover:scale-105 transition-all duration-300 hover:border-primary hover:bg-white'>
                     <div className="flex items-end justify-end">
                         <p className="text-4xl mb-4">♚</p>
                     </div>
@@ -38,7 +38,7 @@ const MatPG = () => {
                     <p className='text-sm text-slate-800 text-left pb-4'>Depois de aprender o jogo e ganhar algumas partidas, o rei resolveu recompensar o inventor, que pediu o pagamento em grãos de trigo: um grão na primeira casa, dois grãos na segunda, quatro na terceira, oito na quarta, e assim por diante, até a 64ª casa do tabuleiro, formando assim uma progressão geométrica.</p>
                 </div>
 
-                <div className='bg-slate-100 p-6 rounded-lg border border-slate-500 shadow-md m-2 flex flex-col justify-start items-start hover:shadow-lg hover:scale-105 transition-all duration-300'>
+                <div className='bg-slate-100 p-6 rounded-lg border border-slate-500 shadow-md m-2 flex flex-col justify-start items-start hover:shadow-lg hover:scale-105 transition-all duration-300 hover:border-primary hover:bg-white'>
                     <div className="flex items-end justify-end">
                     <p className="text-4xl mb-4">♞</p>
                     </div>
@@ -46,12 +46,12 @@ const MatPG = () => {
                     <p className='text-sm text-slate-800 text-left pb-4'>O rei concordou, mesmo considerando o homem insensato. Entretanto, na vigésima primeira casa, já eram necessários mais de um milhão de grãos de trigo, e antes de chegar na quinquagésima casa, já não havia mais trigo suficiente no mundo.</p>
                 </div>
 
-                <div className='bg-slate-100 p-6 rounded-lg border border-slate-500 shadow-md m-2 flex flex-col justify-start items-start hover:shadow-lg hover:scale-105 transition-all duration-300'>
+                <div className='bg-slate-100 p-6 rounded-lg border border-slate-500 shadow-md m-2 flex flex-col justify-start items-start hover:shadow-lg hover:scale-105 transition-all duration-300 hover:border-primary hover:bg-white'>
                     <div className="flex items-end justify-end">
                     <p className="text-4xl mb-4">♛</p>
                     </div>
                     
-                    <p className='text-sm text-slate-800 text-left'>Essa lenda mostra como o raciocínio humano não apreende bem crescimentos exponenciais, uma vez que eles adquirem proporções muito maiores do que conseguimos imaginar. Veja mais em <a href='https://www.google.com/url?q=https%3A%2F%2Fwww.flipsnack.com%2F7E8DB9BBDC9%2Fbei_educacao_ed_financeira_topicos_1ano_em_educador.html%3Fp%3D29&sa=D&sntz=1&usg=AOvVaw3y1f4QWx6QXrn-ti9tMGpC' target='blank' className='underline text-blue-800 hover:text-purple-900'>"Tópicos de Matemática"</a>(p. 29).</p>
+                    <p className='text-sm text-slate-800 text-left'>Essa lenda mostra como o raciocínio humano não apreende bem crescimentos exponenciais, uma vez que eles adquirem proporções muito maiores do que conseguimos imaginar. Veja mais em <a href='https://www.google.com/url?q=https%3A%2F%2Fwww.flipsnack.com%2F7E8DB9BBDC9%2Fbei_educacao_ed_financeira_topicos_1ano_em_educador.html%3Fp%3D29&sa=D&sntz=1&usg=AOvVaw3y1f4QWx6QXrn-ti9tMGpC' target='blank' className='underline text-blue-800 hover:text-purple-900'>Tópicos de Matemática</a>{' '}(p. 29).</p>
                 </div>
 
                 
