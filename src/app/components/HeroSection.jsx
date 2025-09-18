@@ -19,7 +19,7 @@ const HeroSection = () => {
             whileHover={{ scale: 1.1 }}
             whileTap={{ scale: 0.9 }}
           >
-            <img src="images/1covers.png" alt="Capa" className="px-8 max-w-[500px]" />
+            <img src="images/1covers_nonumber.png" alt="Capa" className="px-8 max-w-[500px]" />
           </motion.div>
         </div>
       </div>
